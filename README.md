@@ -1,7 +1,7 @@
 # How to run it?
 
-1. Unzip typescript.zip
-2. In command line of "typescript" folder, run "npm install --force".
+1. Clone the repo
+2. Run "npm install --force".
 3. To start app, run "npm run dev"
 
 ## Tech stacks
